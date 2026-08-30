@@ -11,4 +11,5 @@ def multiply(a, b):
 def divide_new(a, b):
     return a/b
 
-# premium 4
+def say_hello():
+    print("hello")
